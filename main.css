@@ -39,7 +39,7 @@ p {
     color: hsl(322, 100%, 66%);
     font-size: 0.8rem;
     line-height: 1.5;
-    padding: 2px 20px;
+    padding: 6px 20px;
 }
 
 .button-nav:hover {
@@ -203,7 +203,7 @@ footer p {
 
 .socials {
     margin: 20px auto;
-    margin-right: 10px;
+    margin-right: 14px;
     cursor: pointer;
 }
 
